@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+build/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/node_modules/
+backend/lego-batman.db
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
